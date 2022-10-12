@@ -1,0 +1,4 @@
+che ya tendriamos que tener el boiler plate del proyecto, estamos en martes je,
+reconsideramos typescripts ?? se puede implementar en pequeñas medidas ??
+
+otra cosa creo que seria mejor que el que hace el pr, haga el merge ya que por ahi cambia de parecer u encuentra algun error deciste de merguear nc digo je 
